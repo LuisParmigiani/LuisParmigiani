@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # Se ejecuta a las 00:00 cada día
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # El nombre del archivo que se creará
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Configuración Base (ocultamos la cabecera estándar para centrarnos en lenguajes)
+          base: ""
+          
+          # Plugin de Lenguajes DETALLADO
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_details: lines, percentage
+          plugin_languages_indepth: yes
