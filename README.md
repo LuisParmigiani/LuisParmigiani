@@ -3,10 +3,16 @@
 </p>
 <h2>📖 | About me</h2> 
 <p>
-  Estudiante .. 
-</p>
+  Soy estudiante avanzado de Ingeniería en Sistemas de informacion en la UTN (niversidad Tecnológica Nacional), apasionado por la tecnología y el aprendizaje continuo. No me conformo con lo básico; me intriga profundizar en cada herramienta que utilizo para optimizar mis proyectos personales y académicos, buscando siempre la excelencia técnica.
 
+Me defino como un desarrollador perfeccionista y autodidacta, con gran capacidad para adaptarme a nuevos entornos. Valoro la colaboración y me desempeño eficazmente en grupos de trabajo, aportando soluciones creativas y manteniendo siempre una actitud predispuesta a aprender y mejorar
+</p> 
+</br>
+<h2> :computer: :notebook_with_decorative_cover: | Porfolio </h2> 
 
+Proximamente
+
+</br>
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
@@ -36,10 +42,7 @@
 
 ### Contact me:
 
-<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/LuisParmigiani" target="_blank"><img src="https://img.shields.io/badge/Github-LuisParmigiani-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
 
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
-
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:Parmigianiluis04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Parmigianiluis04@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
