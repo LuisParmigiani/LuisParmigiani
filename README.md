@@ -1,48 +1,43 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<h2>📖 | About me</h2> 
+<h1>Luis Parmigiani</h1>
+
 <p>
-  Soy estudiante avanzado de Ingeniería en Sistemas de informacion en la UTN (niversidad Tecnológica Nacional), apasionado por la tecnología y el aprendizaje continuo. No me conformo con lo básico; me intriga profundizar en cada herramienta que utilizo para optimizar mis proyectos personales y académicos, buscando siempre la excelencia técnica.
+Information Systems Engineering student at UTN Rosario (Argentina), graduating December 2027.
+Interested in quantitative research and systematic trading.
+</p>
 
-Me defino como un desarrollador perfeccionista y autodidacta, con gran capacidad para adaptarme a nuevos entornos. Valoro la colaboración y me desempeño eficazmente en grupos de trabajo, aportando soluciones creativas y manteniendo siempre una actitud predispuesta a aprender y mejorar
-</p> 
-</br>
-<h2> :computer: :notebook_with_decorative_cover: | Porfolio </h2> 
+<h2>📌 | Selected work</h2>
 
-Proximamente
+<p>
+<b><a href="https://github.com/LuisParmigiani/Gestion_Base_Datos_Visual">Nora — OCR for bank receipts</a></b><br>
+Fine-tuned Qwen2-VL-7B-Instruct with LoRA (4-bit, MLX) to extract 16 fields from Argentine bank transfer receipts as strict JSON.
+Trained on a synthetic dataset I generated (10 banks, PIL + Faker, phone-photo noise).
+<b>96% of ~150 real receipts extracted with every field correct.</b>
+</p>
 
-</br>
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,cs,net,vite"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,git"/></td>
-    </tr>
-    <!-- <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
-    </tr> -->
-</table>
-<br>
+<p>
+<b><a href="https://github.com/LuisParmigiani/Java-TP2026-Back">Beverage logistics platform</a></b><br>
+Java / Spring Boot + React backoffice for distributors: truck and route assignment, inventory, weekly orders, and payment confirmation through Nora.
+Lead developer in a 3-person team.
+</p>
 
+<p>
+<b>Reformix — services marketplace</b><br>
+TypeScript / Node.js + React. Stripe and MercadoPago payments with an automated commission engine, role-based access control, E2E tests with Playwright.
+Lead developer in a 3-person team.
+</p>
 
+<p>
+<b>Intraday futures research framework</b> <i>(in progress, private)</i><br>
+Python backtesting and validation for CME equity-index futures, with multiple-testing control (StepM) and pre-registered tests.
+</p>
 
-### Contact me:
+<h2>🛠️ | Stack</h2>
 
-<a href="https://github.com/LuisParmigiani" target="_blank"><img src="https://img.shields.io/badge/Github-LuisParmigiani-green?style=for-the-badge&logo=github"></a>
+<p>
+<img height="40" src="https://skillicons.dev/icons?i=py,ts,java,spring,nodejs,react,tailwind,mysql,git"/>
+</p>
 
+<h2>📫 | Contact</h2>
 
-<a href="mailto:Parmigianiluis04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Parmigianiluis04@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/luis-parmigiani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-luis--parmigiani-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:parmigianiluis04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-parmigianiluis04@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
