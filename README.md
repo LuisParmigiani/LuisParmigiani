@@ -15,13 +15,13 @@ Trained on a synthetic dataset I generated (10 banks, PIL + Faker, phone-photo n
 </p>
 
 <p>
-<b><a href="https://github.com/LuisParmigiani/Java-TP2026-Back">Beverage logistics platform</a></b><br>
+<b>Beverage logistics platform</b> · <a href="https://github.com/LuisParmigiani/Java-TP2026-Back">backend</a> · <a href="https://github.com/LuisParmigiani/Java-TP2026-Front">frontend</a><br>
 Java / Spring Boot + React backoffice for distributors: truck and route assignment, inventory, weekly orders, and payment confirmation through Nora.
 Lead developer in a 3-person team.
 </p>
 
 <p>
-<b>Reformix — services marketplace</b><br>
+<b><a href="https://github.com/LuisParmigiani/tpDSW">Reformix — services marketplace</a></b><br>
 TypeScript / Node.js + React. Stripe and MercadoPago payments with an automated commission engine, role-based access control, E2E tests with Playwright.
 Lead developer in a 3-person team.
 </p>
